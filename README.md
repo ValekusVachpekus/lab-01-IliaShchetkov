@@ -151,7 +151,7 @@ This and all other lab assignments will simulate real-life engineering practices
   
   </details>
   
-### Set up an agent
+### (Optional) Set up an agent
 
 1. Watch [tutorial](https://www.youtube.com/watch?v=G0uIVEt3aj4).
 2. Set up [`Kilo Code`](https://kilo.ai/install) or another coding agent with [`Qwen3 Coder`](https://github.com/QwenLM/Qwen3-Coder) or another free model, e.g., from [`OpenRouter`](https://openrouter.ai/collections/free-models).
